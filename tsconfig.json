@@ -5,7 +5,7 @@
     "jsx": "react",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["*"],
+      "@/*": ["./*"],
       "@data/*": ["data/*"],
       "@types/*": ["types/*"],
       "@constants/*": ["constants/*"],
