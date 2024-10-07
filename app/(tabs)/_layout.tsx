@@ -5,6 +5,7 @@ import { AntDesign, FontAwesome, SimpleLineIcons } from '@expo/vector-icons'
 import Colors from '@/constants/Colors'
 import { StatusBar } from 'expo-status-bar'
 
+
 export default function Layout() {
   return (
     <>
