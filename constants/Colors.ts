@@ -1,7 +1,8 @@
 export default {
-  black: '#1a1a1a',
   grey: '#242424',
-  white: '#fcfcfc',
-  tintColor: '#723feb',
-  blue: '#97e0f7'
+  black: '#1a1a1a',
+  white: '#FcFcFc',
+  blue: '#97e0f7',
+  tintColor: '#2f95dc',
+  // Add any other colors you're using
 };
