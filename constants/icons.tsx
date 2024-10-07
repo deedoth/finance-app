@@ -1,4 +1,4 @@
-// import DollarIcon from "@/assets/icons/dollar-sign.svg";
+import DollarIcon from "@/assets/icons/Dollar_Sign.svg";
 import WalletAddMoneyIcon from "@/assets/icons/add-money-wallet-icon.svg";
 import WalletCardIcon from "@/assets/icons/wallet-credit-card.svg";
 import AmazonIcon from "@/assets/icons/amazon-outline.svg";
@@ -13,7 +13,7 @@ import NetflixIcon from "@/assets/icons/netflix.svg";
 
 
 export {
-    // DollarIcon,
+    DollarIcon,
     WalletAddMoneyIcon,
     WalletCardIcon,
     AmazonIcon,
